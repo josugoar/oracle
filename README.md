@@ -6,7 +6,7 @@
 
 > Request-response oracle supporting arbitrary data
 
-# How to use
+# Usage
 
 1. Deploy **Oracle.sol** or implement and deploy custom **IOracle.sol** interface.
 
