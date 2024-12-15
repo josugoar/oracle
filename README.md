@@ -1,3 +1,5 @@
+# oracle
+
 <p align="center">
   <img src="assets/oracle.png" alt="oracle" width="640" height="320" />
 </p>
@@ -6,7 +8,7 @@
 
 > Request-response oracle supporting arbitrary data
 
-# Usage
+## Usage
 
 1. Deploy **Oracle.sol** or implement and deploy custom **IOracle.sol** interface.
 
@@ -16,6 +18,6 @@
 
 4. Call oracle from oracle consumer to access off-chain data.
 
-# Credits
+## Credits
 
-* https://github.com/smartcontractkit/chainlink
+* [chainlink](https://github.com/smartcontractkit/chainlink)
