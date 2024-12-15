@@ -1,6 +1,6 @@
 # oracle
 
-> Open request-response oracle supporting arbitrary data
+> Request-response oracle supporting arbitrary data
 
 ## How to use
 
