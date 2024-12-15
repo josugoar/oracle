@@ -1,5 +1,11 @@
 # oracle
 
+<p align="center">
+  <img src="assets/oracle.png" alt="oracle" width="640" height="320" />
+</p>
+
+<h1></h1>
+
 > Request-response oracle supporting arbitrary data
 
 ## How to use
