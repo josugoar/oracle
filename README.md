@@ -15,3 +15,7 @@
 3. Define **ENDPOINT_URI**, **PRIVATE_KEY**, **ADDRESS**, **ABI** and **TASK_ID** in **.env** file and run **oracle_service** or use provided interface in custom program.
 
 4. Call oracle from oracle consumer to access off-chain data.
+
+# Credits
+
+* https://github.com/smartcontractkit/chainlink
